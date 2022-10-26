@@ -58,3 +58,7 @@ He is a solution architect focused on cloud-native applications and migrating ex
 
 **Tom Janetscheck**
 He is a senior program manager at Microsoft’s Cloud Security CxE team for Microsoft Defender for Cloud. Prior to this, he has been working in different internal and external IT and consulting roles for almost two decades, with a strong focus on cloud infrastructure, architecture, and security. As a well-known international conference speaker, tech blogger, and book author, and as one of the founders and organizers of the Azure Saturday community conferences, the former Microsoft MVP is actively taking his experience into international tech communities. In his spare time, Tom is an enthusiastic motorcyclist, scuba diver, guitarist, bassist, rookie drummer, and station officer at a local fire department.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803238555">https://packt.link/free-ebook/9781803238555 </a> </p>
